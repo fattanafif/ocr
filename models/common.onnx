@@ -1,0 +1,37 @@
+pytorch1.9:���
+�
+input1
+391
+392390Conv_0"Conv*
+	dilations@@�*
+group�*
+kernel_shape@@�*
+pads@@@@�*
+strides@@�
+
+390139	Sigmoid_1"Sigmoid
+
+390
+139140Mul_2"Mul
+�
+140
+394
+395393Conv_3"Conv*
+	dilations@@�*
+group�*
+kernel_shape@@�*
+pads@@@@�*
+strides@@�
+
+393143	Sigmoid_4"Sigmoid
+
+393
+143144Mul_5"Mul
+�
+144
+397
+398396Conv_6"Conv*
+	dilations@@�*
+group�*
+kernel_shape@@�*
+pads@
